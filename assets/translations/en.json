@@ -1,0 +1,17 @@
+{
+  "ui": {
+    "yes": "Yes",
+    "cancel": "Cancel",
+    "go_to_setting": "Go to setting",
+    "title_require_photo": "This feature requires photo access",
+    "title_require_camera": "This feature requires camera access",
+    "title_require_storage": "This feature requires storage access",
+    "content_require_photo": "In iPhone settings, tap on \"Travel Manager\" and turn on \"Photo\".",
+    "content_require_storage": "In app settings, tap on \"Travel Manager\" and turn on \"Files and media\".",
+    "content_require_camera_android": "In app settings, tap on \"Travel Manager\" and turn on \"Camera\".",
+    "content_require_camera_ios": "In iPhone settings, tap on \"Travel Manager\" and turn on \"Camera\"."
+  },
+  "msg": {
+    "under_construction": "This feature is under construction"
+  }
+}

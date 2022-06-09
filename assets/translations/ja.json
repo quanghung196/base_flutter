@@ -1,0 +1,17 @@
+{
+  "ui": {
+    "yes": "はい",
+    "cancel": "キャンセル",
+    "go_to_setting": "設定に進む",
+    "title_require_photo": "写真へのアクセスを許可してください",
+    "title_require_camera": "カメラへのアクセスを許可してください",
+    "title_require_storage": "ストレージへのアクセスを許可してください",
+    "content_require_photo": "iPhone設定で、「Travel Manager」にクリックして、「写真」をONにしてください。",
+    "content_require_storage": "アプリ設定で、「Travel Manager」にクリックして、「ファイルとメディア」をONにしてください。",
+    "content_require_camera_android": "アプリ設定で、「Travel Manager」にクリックして、「カメラ」をONにしてください。",
+    "content_require_camera_ios": "iPhone設定で、「Travel Manager」にクリックして、「カメラ」をONにしてください。"
+  },
+  "msg": {
+    "under_construction": "この機能は現在作成中です"
+  }
+}

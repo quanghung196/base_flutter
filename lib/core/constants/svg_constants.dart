@@ -1,0 +1,3 @@
+class SvgConstants {
+  SvgConstants._();
+}
